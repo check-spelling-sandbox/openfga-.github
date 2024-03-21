@@ -1,0 +1,17 @@
+CNCF
+coc
+commitlint
+curating
+openfga
+OWASP
+proactively
+RFCs
+roadmap
+Semgrep
+Snyk
+supermajority
+terraform
+triaging
+Versioning
+website
+workflows
