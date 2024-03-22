@@ -11,7 +11,7 @@ If your PR is under active development, please submit it as a "draft". Once it's
 <!-- Provide a detailed description of the changes -->
 
 ## References
-<!-- Provide a list of any applicable references here (Github Issue, [OpenFGA RFC](https://github.com/openfga/rfcs), other PRs, etc..) -->
+<!-- Provide a list of any applicable references here (GitHub Issue, [OpenFGA RFC](https://github.com/openfga/rfcs), other PRs, etc..) -->
 
 ## Review Checklist
 - [ ] I have clicked on ["allow edits by maintainers"](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/allowing-changes-to-a-pull-request-branch-created-from-a-fork).

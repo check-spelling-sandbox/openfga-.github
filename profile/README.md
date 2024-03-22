@@ -36,7 +36,7 @@ Centralizing your authorization logic and decisions into a single service that h
 
 OpenFGA has high quality developer tooling, including:
 
-- SDKs for [Go](https://github.com/openfga/go-sdk), [Javascript](https://github.com/openfga/js-sdk), [.NET](https://github.com/openfga/dotnet-sdk), [Python](https://github.com/openfga/python-sdk), [Java](https://github.com/openfga/java-sdk).
+- SDKs for [Go](https://github.com/openfga/go-sdk), [JavaScript](https://github.com/openfga/js-sdk), [.NET](https://github.com/openfga/dotnet-sdk), [Python](https://github.com/openfga/python-sdk), [Java](https://github.com/openfga/java-sdk).
 - A [CLI](https://github.com/openfga/cli) to operate an OpenFGA server, import/export models and tuples and test models.
 - A [Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=openfga.openfga-vscode) with syntax coloring and validation for models and tests.
 - A [Helm Chart](https://github.com/openfga/helm-charts) to simplify deployment in Kubernetes clusters.
@@ -47,5 +47,5 @@ OpenFGA has high quality developer tooling, including:
 
 * **Contributing**: Read this [CONTRIBUTING.md](https://github.com/openfga/.github/blob/main/CONTRIBUTING.md) guide for an outline for interacting with the OpenFGA community and its governance structure, as well as details how to write, test, and submit code changes.
 * **Documentation**: Read about OpenFGA at the [project's website and documentation repository, https://openfga.dev](https://openfga.dev).
-* **Community**: Join the [OpenFGA Community](https://openfga.dev/community) in the CNCF Slack or [Github Discussions](https://github.com/orgs/openfga/discussions).
+* **Community**: Join the [OpenFGA Community](https://openfga.dev/community) in the CNCF Slack or [GitHub Discussions](https://github.com/orgs/openfga/discussions).
 * **Community Projects**: We're building amazing things with OpenFGA. Check them out in our [Community Projects](https://github.com/openfga/community#community-projects) list.

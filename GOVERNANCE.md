@@ -14,7 +14,7 @@ For copyright and trademark information, see [Trademark Usage](https://www.linux
 
 ## Roles and Responsibilities
 
-OpenFGA uses a Teams concept to divide up roles and responsibilities. Teams are defined in Github.
+OpenFGA uses a Teams concept to divide up roles and responsibilities. Teams are defined in GitHub.
 
 ### Teams
 Currently there are three main teams:
@@ -53,13 +53,13 @@ The @product team is concerned with iterating on the product itself. They govern
 
 #### Contributors
 
-The @contributors team exists to keep track of and grant certain priveliges to anyone who contributes to the product.
+The @contributors team exists to keep track of and grant certain privileges to anyone who contributes to the product.
 
 ### Joining a team
 
 Anyone can become a member of @contributors team: reach out to anyone on the @core or @product teams via any of the channels in the [Support](#support) section with a request to join and they will make the change.
 
-From there, when someone has a will to be more involved in any of the other teams' responsibilities, and have made significant enough contributions to the product, being promoted to being a member of the @core or @product teams requires making a request and recieving a majority vote from those teams. For more info, see the [Governance-Related Policies and Procedures](#governance-related-policies-and-procedures) section.
+From there, when someone has a will to be more involved in any of the other teams' responsibilities, and have made significant enough contributions to the product, being promoted to being a member of the @core or @product teams requires making a request and receiving a majority vote from those teams. For more info, see the [Governance-Related Policies and Procedures](#governance-related-policies-and-procedures) section.
 
 ### Leaving a team
 
@@ -89,6 +89,6 @@ We welcome contributions from the broader community! If you would like to contri
 
 If you have any questions, feedback, or ideas for OpenFGA, we would love to hear from you. Here are a few ways you can get in touch:
 
-* Join the [OpenFGA Community](https://openfga.dev/community) in the CNCF Slack or [Github Discussions](https://github.com/orgs/openfga/discussions).
+* Join the [OpenFGA Community](https://openfga.dev/community) in the CNCF Slack or [GitHub Discussions](https://github.com/orgs/openfga/discussions).
 - Reach out to us [on Twitter](https://twitter.com/OpenFGA)
 - Send an email to [contact@openfga.dev](mailto:contact@openfga.dev)
